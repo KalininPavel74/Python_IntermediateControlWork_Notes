@@ -1,0 +1,2 @@
+class ExceptionProg(Exception):
+    pass
